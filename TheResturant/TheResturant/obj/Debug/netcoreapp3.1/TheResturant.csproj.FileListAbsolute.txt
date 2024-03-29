@@ -1,0 +1,14 @@
+C:\Users\vickm\source\repos\TheResturant\TheResturant\bin\Debug\netcoreapp3.1\TheResturant.exe
+C:\Users\vickm\source\repos\TheResturant\TheResturant\bin\Debug\netcoreapp3.1\TheResturant.deps.json
+C:\Users\vickm\source\repos\TheResturant\TheResturant\bin\Debug\netcoreapp3.1\TheResturant.runtimeconfig.json
+C:\Users\vickm\source\repos\TheResturant\TheResturant\bin\Debug\netcoreapp3.1\TheResturant.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\TheResturant\TheResturant\bin\Debug\netcoreapp3.1\TheResturant.dll
+C:\Users\vickm\source\repos\TheResturant\TheResturant\bin\Debug\netcoreapp3.1\TheResturant.pdb
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.AssemblyInfo.cs
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.dll
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.pdb
+C:\Users\vickm\source\repos\TheResturant\TheResturant\obj\Debug\netcoreapp3.1\TheResturant.genruntimeconfig.cache
